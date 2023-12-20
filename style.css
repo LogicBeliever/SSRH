@@ -171,3 +171,12 @@ html,body{
     background-size: cover;
     background-image: url(https://idee-eyewear.com/cdn/shop/files/Gif_1_copy_460x.gif?v=1686142175);
 }
+
+.facilities{
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(facilities.jpeg);
+    }
+    
+
